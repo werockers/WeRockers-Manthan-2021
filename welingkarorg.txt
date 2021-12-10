@@ -1,0 +1,4 @@
+[+] Email: sandeep.bhavsar@welingkar.org (14.143.247.166)
+%s- Not found information (on shodan) for this email, search this ip/ips on internet.. >> This email wasn't leaked
+[+] Email: admissions@welingkar.org (14.143.247.166)
+%s- Not found information (on shodan) for this email, search this ip/ips on internet.. >> This email wasn't leaked

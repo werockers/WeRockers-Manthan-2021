@@ -1,0 +1,10 @@
+folium==0.8.3
+tweepy==3.10.0
+pandas==1.1.5
+re==2.2.1
+csv==1.0
+matplotlib==3.2.2
+sherlock==3.6.1
+geocoder==1.38.1
+os
+infoga
