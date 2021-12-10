@@ -13,19 +13,19 @@ Dr. Sonal Daulatkar
 College name: S.P. Mandali's Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai (WeSchool)
 
 
-Features of the Solution
- User Friendly
- Real time
- Scalable
- Reliable
- 360 degree view of suspect terror suspect
-
-Deliverables of the Solution
- Email Address
- Contact Number
- Location (Long., Lat.)
- IP Address
- ISP details
+Features of the Solution:
+ <li>User Friendly</li>
+ <li>Real time</li>
+ <li>Scalable</li>
+ <li>Reliable</li>
+ <li>360 degree view of suspect terror suspect</li>
+<br>
+<p>Deliverables of the Solution:</p>
+ <li>Email Address</li>
+ <li>Contact Number</li>
+ <li>Location (Long., Lat.)</li>
+ <li>IP Address</li>
+ <li>ISP details</li>
 
 
 
